@@ -1,13 +1,41 @@
-# Byte-compiled / optimized / DLL files
+# Node.js / JavaScript (caso use algum front/backend em JS)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python (se usar scripts Python)
 __pycache__/
 *.py[cod]
-*$py.class
-
-# Distribution / packaging
-build/
-dist/
-*.egg-info/
-
-# Virtual environment
+*.pyo
+*.pyd
+env/
 venv/
-.env/
+ENV/
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+*.temp
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# IDEs e editores
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Build outputs (se houver builds)
+dist/
+build/
+out/
+
+# Arquivos de configuração local
+.env
+
+# Mac e Linux swap files
+*~
+*.swp
