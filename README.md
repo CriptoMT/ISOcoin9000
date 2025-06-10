@@ -68,6 +68,14 @@ Colabore entrando para nossa comunidade, sendo um holder e incentivador do proje
 
 ---
 
-## Licença
+## Licença e Direitos
 
-Este projeto está licenciado sob a **MIT License** — veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+© 2025 ISOcoin9000. Todos os direitos reservados.
+
+O código-fonte deste projeto está licenciado sob a **MIT License** — consulte o arquivo [LICENSE](LICENSE) para detalhes.
+
+A documentação, website, marcas e demais materiais relacionados ao projeto são protegidos por direitos autorais e não podem ser usados, copiados ou distribuídos sem autorização expressa.
+
+O token ISOcoin9000 é um ativo digital listado na plataforma PumpSwap. O uso do token está sujeito aos termos da PumpSwap, às regulamentações aplicáveis e às leis locais.
+
+Para dúvidas ou colaborações, junte-se à nossa comunidade nos canais oficiais.
